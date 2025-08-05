@@ -46,9 +46,6 @@
 ## İletişim
 
 📫 Bana ulaşmak için:
-
-- Twitter: [@tayfunyy](https://twitter.com/tayfunyesilyurt)
-- LinkedIn: [linkedin.com/in/tayfunyy](https://linkedin.com/in/tayfunyy)
 - Email: tayfunyesilyurt@outlook.com.tr
 
 ---
