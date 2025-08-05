@@ -1,29 +1,32 @@
-# Merhaba, ben Tayfun Yeşilyurt 👋
+<div align="center">
 
-🚀 **Full Stack Developer & Sistem Uzmanı**
+# 👋 Merhaba, ben Tayfun Yeşilyurt!
+
+### 🚀 Full Stack Developer & Sistem Uzmanı
 
 ---
 
 ## Hakkımda
 
-- Node.js, Laravel, Python, Go backend geliştirme
-- Vue.js ve React.js ile modern frontend
-- Web & Desktop uygulamalar, RESTful API projeleri
-- Server ve sistem yönetimi konularında deneyimliyim
-- Çoğu projeyi baştan sona tamamlamış biriyim
+📌 Backend ve frontend teknolojilerinde güçlü uzmanlık  
+💻 Web & Desktop uygulamalar, RESTful API’ler geliştirdim  
+⚙️ Server ve sistem yönetiminde deneyimliyim  
+🎯 Çoğu projeyi baştan sona tamamladım
 
 ---
 
-## Kullandığım Teknolojiler
+## Teknolojiler & Araçlar
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -51,3 +54,5 @@
 ---
 
 *“Başarı, çalışmak ve azimle gelir.”*
+
+</div>
